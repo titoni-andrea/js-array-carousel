@@ -6,12 +6,15 @@
 
 body {
     font-family: sans-serif;
+    background-color: #222;
+    color: white;
 }
 
 #titolo {
     text-align: center;
     margin-top: 30px;
     font-size: 50px;
+    margin-bottom: 20px;
 }
 
 .cont-img {
